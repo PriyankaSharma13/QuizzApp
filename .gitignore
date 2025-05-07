@@ -1,0 +1,17 @@
+# macOS metadata
+.DS_Store
+
+# node modules
+node_modules/
+
+# iOS
+ios/Pods/
+ios/build/
+*.xcuserdata/
+
+# Android
+android/.gradle/
+android/app/build/
+
+# Misc
+.env
